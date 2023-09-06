@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @preetham-b1999
+- 👋 Hello, I’m Sai Preetham B
 - 👀 I’m interested in Digital Logic Design, Embedded Systems, Programming and Mathematics
 - 🌱 I’m currently learning ASIC Development and Advanced Software engineering principles
 - 💞️ My other interests are Teaching, Dancing and Gaming
