@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Sai Preetham B
-- 👀 I’m interested in Digital Logic Design, Embedded Systems, Programming and Mathematics
+- 👀 Interests - Digital Logic Design, Embedded Systems, Programming and Mathematics
 - 🌱 I’m currently learning ASIC Development and Advanced Software engineering principles
 - 💞️ My other interests are Teaching, Dancing and Gaming
 - 📫 How to reach me -- bspreetham99@gmail.com & https://www.linkedin.com/in/saipreetham-bonagiri/
